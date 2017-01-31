@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  Quiddity
+
+  Created by piyushMac on 10/11/16.
+  Copyright © 2016 piyushMac. All rights reserved.
+*/
+
+"Invalid_Email" = "Enter valid email";
+"Contacts" = "Contacts";
+"Leads" = "Leads";
+"Tasks" = "Tasks";
+"Todo" = "Todo";
+"Dashboard" = "Dashboard";
+"Setting" = "Setting";

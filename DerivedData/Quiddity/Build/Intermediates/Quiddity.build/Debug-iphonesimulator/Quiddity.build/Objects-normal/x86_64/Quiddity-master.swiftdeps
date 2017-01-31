@@ -1,0 +1,20 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "402db8b1f435eccaf3468e5cbfe818fa"
+build_time: [539155300, 133493000]
+inputs:
+  "/Volumes/User Project/Project/Quiddity/Quiddity/AppDelegate.swift": [539088512, 0]
+  "/Volumes/User Project/Project/Quiddity/Quiddity/ViewController/TaskListViewController.swift": [539088513, 0]
+  "/Volumes/User Project/Project/Quiddity/Quiddity/ViewController/subDomainViewController.swift": [539088513, 0]
+  "/Volumes/User Project/Project/Quiddity/Quiddity/AppConstant.swift": [539088512, 0]
+  "/Volumes/User Project/Project/Quiddity/Quiddity/ViewController/LeadListViewController.swift": [539088513, 0]
+  "/Volumes/User Project/Project/Quiddity/Quiddity/Utility.swift": [539088513, 0]
+  "/Volumes/User Project/Project/Quiddity/Quiddity/AppRouter.swift": [539092501, 0]
+  "/Volumes/User Project/Project/Quiddity/Quiddity/ViewController/TodoListViewController.swift": [539088513, 0]
+  "/Volumes/User Project/Project/Quiddity/Quiddity/ViewController/SettingViewController.swift": [539099396, 0]
+  "/Volumes/User Project/Project/Quiddity/Quiddity/ViewController/AbstractViewController.swift": [539088513, 0]
+  "/Volumes/User Project/Project/Quiddity/Quiddity/View/ThemeButton.swift": [539088513, 0]
+  "/Volumes/User Project/Project/Quiddity/Quiddity/ViewController/loginViewController.swift": [539088513, 0]
+  "/Volumes/User Project/Project/Quiddity/Quiddity/ViewController/dashBoardViewController.swift": [539092971, 0]
+  "/Volumes/User Project/Project/Quiddity/Quiddity/SlideMenu/leftMenuViewController.swift": [539092642, 0]
+  "/Volumes/User Project/Project/Quiddity/Quiddity/SwipableCell/PKSwipeTableViewCell.swift": [539088513, 0]
+  "/Volumes/User Project/Project/Quiddity/Quiddity/ViewController/ContactListViewController.swift": [539088513, 0]

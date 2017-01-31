@@ -1,0 +1,92 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Volumes/User Project/Project/Quiddity/DerivedData/Quiddity/Build/Products/Debug-iphonesimulator/HMSegmentedControl/HMSegmentedControl.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "HMSegmentedControl-Swift.h",
+          'external-contents': "/Volumes/User Project/Project/Quiddity/DerivedData/Quiddity/Build/Products/Debug-iphonesimulator/HMSegmentedControl/HMSegmentedControl.framework/Headers/HMSegmentedControl-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "HMSegmentedControl-umbrella.h",
+          'external-contents': "/Volumes/User Project/Project/Quiddity/Pods/Target Support Files/HMSegmentedControl/HMSegmentedControl-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "HMSegmentedControl.h",
+          'external-contents': "/Volumes/User Project/Project/Quiddity/Pods/HMSegmentedControl/HMSegmentedControl/HMSegmentedControl.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Volumes/User Project/Project/Quiddity/DerivedData/Quiddity/Build/Products/Debug-iphonesimulator/HMSegmentedControl/HMSegmentedControl.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Volumes/User Project/Project/Quiddity/DerivedData/Quiddity/Build/Intermediates/Pods.build/Debug-iphonesimulator/HMSegmentedControl.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Volumes/User Project/Project/Quiddity/DerivedData/Quiddity/Build/Products/Debug-iphonesimulator/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "IQKeyboardManagerSwift-Swift.h",
+          'external-contents': "/Volumes/User Project/Project/Quiddity/DerivedData/Quiddity/Build/Products/Debug-iphonesimulator/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework/Headers/IQKeyboardManagerSwift-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQKeyboardManagerSwift-umbrella.h",
+          'external-contents': "/Volumes/User Project/Project/Quiddity/Pods/Target Support Files/IQKeyboardManagerSwift/IQKeyboardManagerSwift-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Volumes/User Project/Project/Quiddity/DerivedData/Quiddity/Build/Products/Debug-iphonesimulator/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Volumes/User Project/Project/Quiddity/DerivedData/Quiddity/Build/Intermediates/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Volumes/User Project/Project/Quiddity/DerivedData/Quiddity/Build/Products/Debug-iphonesimulator/Pods_Quiddity.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-Quiddity-umbrella.h",
+          'external-contents': "/Volumes/User Project/Project/Quiddity/Pods/Target Support Files/Pods-Quiddity/Pods-Quiddity-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_Quiddity-Swift.h",
+          'external-contents': "/Volumes/User Project/Project/Quiddity/DerivedData/Quiddity/Build/Products/Debug-iphonesimulator/Pods_Quiddity.framework/Headers/Pods_Quiddity-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Volumes/User Project/Project/Quiddity/DerivedData/Quiddity/Build/Products/Debug-iphonesimulator/Pods_Quiddity.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Volumes/User Project/Project/Quiddity/DerivedData/Quiddity/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Quiddity.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

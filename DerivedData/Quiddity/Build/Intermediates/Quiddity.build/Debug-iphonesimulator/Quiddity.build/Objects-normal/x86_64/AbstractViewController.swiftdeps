@@ -1,0 +1,397 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Controller"
+- "View"
+- "AbstractViewController"
+provides-nominal:
+- "P8Quiddity10Controller"
+- "P8Quiddity4View"
+- "C8Quiddity22AbstractViewController"
+provides-member:
+- ["P8Quiddity10Controller", ""]
+- ["P8Quiddity4View", ""]
+- ["C8Quiddity22AbstractViewController", ""]
+provides-dynamic-lookup:
+- "configureNavigationBarShow"
+- "configureBackButtonOnNavigationBar"
+- "configureNavigationBarHide"
+- "viewDidLoad"
+- "didReceiveMemoryWarning"
+depends-top-level:
+- "Controller"
+- !private "SlideNavigationController"
+- "UIViewController"
+- "CastingPrecedence"
+- "AppScreenType"
+- "View"
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- "AbstractViewController"
+depends-member:
+- ["C8Quiddity22AbstractViewController", "AppScreenType"]
+- ["C8Quiddity22AbstractViewController", "Controller"]
+- !private ["C8Quiddity22AbstractViewController", "SlideNavigationController"]
+- ["C8Quiddity22AbstractViewController", "configureBackButtonOnNavigationBar"]
+- ["C8Quiddity22AbstractViewController", "configureNavigationBarHide"]
+- ["C8Quiddity22AbstractViewController", "configureNavigationBarShow"]
+- ["C8Quiddity22AbstractViewController", "controller"]
+- ["C8Quiddity22AbstractViewController", "deinit"]
+- ["C8Quiddity22AbstractViewController", "didReceiveMemoryWarning"]
+- ["C8Quiddity22AbstractViewController", "init"]
+- !private ["C8Quiddity22AbstractViewController", "navigationController"]
+- !private ["C8Quiddity22AbstractViewController", "navigationItem"]
+- ["C8Quiddity22AbstractViewController", "screenType"]
+- ["C8Quiddity22AbstractViewController", "viewDidLoad"]
+- ["Ps9AnyObject", "configureBackButtonOnNavigationBar"]
+- ["Ps9AnyObject", "configureNavigationBarHide"]
+- ["Ps9AnyObject", "configureNavigationBarShow"]
+- ["Ps9AnyObject", "controller"]
+- ["Ps9AnyObject", "didReceiveMemoryWarning"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "isHidden"]
+- !private ["Ps9AnyObject", "navigationBar"]
+- !private ["Ps9AnyObject", "navigationController"]
+- !private ["Ps9AnyObject", "navigationItem"]
+- ["Ps9AnyObject", "screenType"]
+- !private ["Ps9AnyObject", "setHidesBackButton"]
+- ["Ps9AnyObject", "viewDidLoad"]
+- ["Ps9AnyObject", ""]
+- ["Sb", "deinit"]
+- !private ["PSo15CALayerDelegate", "isHidden"]
+- ["Ps7CVarArg", "configureBackButtonOnNavigationBar"]
+- ["Ps7CVarArg", "configureNavigationBarHide"]
+- ["Ps7CVarArg", "configureNavigationBarShow"]
+- ["Ps7CVarArg", "controller"]
+- ["Ps7CVarArg", "didReceiveMemoryWarning"]
+- !private ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "isHidden"]
+- !private ["Ps7CVarArg", "navigationBar"]
+- !private ["Ps7CVarArg", "navigationController"]
+- !private ["Ps7CVarArg", "navigationItem"]
+- ["Ps7CVarArg", "screenType"]
+- !private ["Ps7CVarArg", "setHidesBackButton"]
+- ["Ps7CVarArg", "viewDidLoad"]
+- ["Ps7CVarArg", ""]
+- ["P8Quiddity10Controller", "View"]
+- ["P8Quiddity10Controller", "view"]
+- ["P8Quiddity10Controller", ""]
+- ["Ps28CustomDebugStringConvertible", "configureBackButtonOnNavigationBar"]
+- ["Ps28CustomDebugStringConvertible", "configureNavigationBarHide"]
+- ["Ps28CustomDebugStringConvertible", "configureNavigationBarShow"]
+- ["Ps28CustomDebugStringConvertible", "controller"]
+- ["Ps28CustomDebugStringConvertible", "didReceiveMemoryWarning"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "isHidden"]
+- !private ["Ps28CustomDebugStringConvertible", "navigationBar"]
+- !private ["Ps28CustomDebugStringConvertible", "navigationController"]
+- !private ["Ps28CustomDebugStringConvertible", "navigationItem"]
+- ["Ps28CustomDebugStringConvertible", "screenType"]
+- !private ["Ps28CustomDebugStringConvertible", "setHidesBackButton"]
+- ["Ps28CustomDebugStringConvertible", "viewDidLoad"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- ["Ps23CustomStringConvertible", "configureBackButtonOnNavigationBar"]
+- ["Ps23CustomStringConvertible", "configureNavigationBarHide"]
+- ["Ps23CustomStringConvertible", "configureNavigationBarShow"]
+- ["Ps23CustomStringConvertible", "controller"]
+- ["Ps23CustomStringConvertible", "didReceiveMemoryWarning"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "isHidden"]
+- !private ["Ps23CustomStringConvertible", "navigationBar"]
+- !private ["Ps23CustomStringConvertible", "navigationController"]
+- !private ["Ps23CustomStringConvertible", "navigationItem"]
+- ["Ps23CustomStringConvertible", "screenType"]
+- !private ["Ps23CustomStringConvertible", "setHidesBackButton"]
+- ["Ps23CustomStringConvertible", "viewDidLoad"]
+- ["Ps23CustomStringConvertible", ""]
+- ["Ps9Equatable", "configureBackButtonOnNavigationBar"]
+- ["Ps9Equatable", "configureNavigationBarHide"]
+- ["Ps9Equatable", "configureNavigationBarShow"]
+- ["Ps9Equatable", "controller"]
+- ["Ps9Equatable", "didReceiveMemoryWarning"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "isHidden"]
+- !private ["Ps9Equatable", "navigationBar"]
+- !private ["Ps9Equatable", "navigationController"]
+- !private ["Ps9Equatable", "navigationItem"]
+- ["Ps9Equatable", "screenType"]
+- !private ["Ps9Equatable", "setHidesBackButton"]
+- ["Ps9Equatable", "viewDidLoad"]
+- ["Ps9Equatable", ""]
+- ["Ps8Hashable", "configureBackButtonOnNavigationBar"]
+- ["Ps8Hashable", "configureNavigationBarHide"]
+- ["Ps8Hashable", "configureNavigationBarShow"]
+- ["Ps8Hashable", "controller"]
+- ["Ps8Hashable", "didReceiveMemoryWarning"]
+- !private ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "isHidden"]
+- !private ["Ps8Hashable", "navigationBar"]
+- !private ["Ps8Hashable", "navigationController"]
+- !private ["Ps8Hashable", "navigationItem"]
+- ["Ps8Hashable", "screenType"]
+- !private ["Ps8Hashable", "setHidesBackButton"]
+- ["Ps8Hashable", "viewDidLoad"]
+- ["Ps8Hashable", ""]
+- ["CSo7NSCoder", "deinit"]
+- ["PSo8NSCoding", "configureBackButtonOnNavigationBar"]
+- ["PSo8NSCoding", "configureNavigationBarHide"]
+- ["PSo8NSCoding", "configureNavigationBarShow"]
+- ["PSo8NSCoding", "controller"]
+- ["PSo8NSCoding", "didReceiveMemoryWarning"]
+- !private ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "isHidden"]
+- !private ["PSo8NSCoding", "navigationBar"]
+- !private ["PSo8NSCoding", "navigationController"]
+- !private ["PSo8NSCoding", "navigationItem"]
+- ["PSo8NSCoding", "screenType"]
+- !private ["PSo8NSCoding", "setHidesBackButton"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", ""]
+- ["PSo26NSExtensionRequestHandling", "configureBackButtonOnNavigationBar"]
+- ["PSo26NSExtensionRequestHandling", "configureNavigationBarHide"]
+- ["PSo26NSExtensionRequestHandling", "configureNavigationBarShow"]
+- ["PSo26NSExtensionRequestHandling", "controller"]
+- ["PSo26NSExtensionRequestHandling", "didReceiveMemoryWarning"]
+- !private ["PSo26NSExtensionRequestHandling", "init"]
+- !private ["PSo26NSExtensionRequestHandling", "navigationBar"]
+- !private ["PSo26NSExtensionRequestHandling", "navigationController"]
+- !private ["PSo26NSExtensionRequestHandling", "navigationItem"]
+- ["PSo26NSExtensionRequestHandling", "screenType"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- ["CSo8NSObject", "AppScreenType"]
+- ["CSo8NSObject", "Controller"]
+- !private ["CSo8NSObject", "SlideNavigationController"]
+- ["CSo8NSObject", "configureBackButtonOnNavigationBar"]
+- ["CSo8NSObject", "configureNavigationBarHide"]
+- ["CSo8NSObject", "configureNavigationBarShow"]
+- ["CSo8NSObject", "controller"]
+- ["CSo8NSObject", "didReceiveMemoryWarning"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "isHidden"]
+- !private ["CSo8NSObject", "navigationBar"]
+- !private ["CSo8NSObject", "navigationController"]
+- !private ["CSo8NSObject", "navigationItem"]
+- ["CSo8NSObject", "screenType"]
+- !private ["CSo8NSObject", "setHidesBackButton"]
+- ["CSo8NSObject", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", "configureBackButtonOnNavigationBar"]
+- ["PSo16NSObjectProtocol", "configureNavigationBarHide"]
+- ["PSo16NSObjectProtocol", "configureNavigationBarShow"]
+- ["PSo16NSObjectProtocol", "controller"]
+- ["PSo16NSObjectProtocol", "didReceiveMemoryWarning"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "isHidden"]
+- !private ["PSo16NSObjectProtocol", "navigationBar"]
+- !private ["PSo16NSObjectProtocol", "navigationController"]
+- !private ["PSo16NSObjectProtocol", "navigationItem"]
+- ["PSo16NSObjectProtocol", "screenType"]
+- !private ["PSo16NSObjectProtocol", "setHidesBackButton"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", ""]
+- ["Sq", "deinit"]
+- ["CSo25SlideNavigationController", "deinit"]
+- !private ["PSo29UIAccessibilityIdentification", "isHidden"]
+- !private ["PSo12UIAppearance", "isHidden"]
+- ["PSo21UIAppearanceContainer", "configureBackButtonOnNavigationBar"]
+- ["PSo21UIAppearanceContainer", "configureNavigationBarHide"]
+- ["PSo21UIAppearanceContainer", "configureNavigationBarShow"]
+- ["PSo21UIAppearanceContainer", "controller"]
+- ["PSo21UIAppearanceContainer", "didReceiveMemoryWarning"]
+- !private ["PSo21UIAppearanceContainer", "init"]
+- !private ["PSo21UIAppearanceContainer", "isHidden"]
+- !private ["PSo21UIAppearanceContainer", "navigationBar"]
+- !private ["PSo21UIAppearanceContainer", "navigationController"]
+- !private ["PSo21UIAppearanceContainer", "navigationItem"]
+- ["PSo21UIAppearanceContainer", "screenType"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["PSo16UIBarPositioning", "isHidden"]
+- ["PSo18UIContentContainer", "configureBackButtonOnNavigationBar"]
+- ["PSo18UIContentContainer", "configureNavigationBarHide"]
+- ["PSo18UIContentContainer", "configureNavigationBarShow"]
+- ["PSo18UIContentContainer", "controller"]
+- ["PSo18UIContentContainer", "didReceiveMemoryWarning"]
+- !private ["PSo18UIContentContainer", "init"]
+- !private ["PSo18UIContentContainer", "navigationBar"]
+- !private ["PSo18UIContentContainer", "navigationController"]
+- !private ["PSo18UIContentContainer", "navigationItem"]
+- ["PSo18UIContentContainer", "screenType"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- !private ["PSo17UICoordinateSpace", "isHidden"]
+- !private ["PSo13UIDynamicItem", "isHidden"]
+- ["PSo18UIFocusEnvironment", "configureBackButtonOnNavigationBar"]
+- ["PSo18UIFocusEnvironment", "configureNavigationBarHide"]
+- ["PSo18UIFocusEnvironment", "configureNavigationBarShow"]
+- ["PSo18UIFocusEnvironment", "controller"]
+- ["PSo18UIFocusEnvironment", "didReceiveMemoryWarning"]
+- !private ["PSo18UIFocusEnvironment", "init"]
+- !private ["PSo18UIFocusEnvironment", "isHidden"]
+- !private ["PSo18UIFocusEnvironment", "navigationBar"]
+- !private ["PSo18UIFocusEnvironment", "navigationController"]
+- !private ["PSo18UIFocusEnvironment", "navigationItem"]
+- ["PSo18UIFocusEnvironment", "screenType"]
+- ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["PSo11UIFocusItem", "isHidden"]
+- ["CSo15UINavigationBar", "deinit"]
+- !private ["CSo15UINavigationBar", "isHidden"]
+- ["CSo22UINavigationController", "deinit"]
+- !private ["CSo22UINavigationController", "navigationBar"]
+- ["CSo16UINavigationItem", "deinit"]
+- !private ["CSo16UINavigationItem", "setHidesBackButton"]
+- ["CSo11UIResponder", "AppScreenType"]
+- ["CSo11UIResponder", "Controller"]
+- !private ["CSo11UIResponder", "SlideNavigationController"]
+- ["CSo11UIResponder", "configureBackButtonOnNavigationBar"]
+- ["CSo11UIResponder", "configureNavigationBarHide"]
+- ["CSo11UIResponder", "configureNavigationBarShow"]
+- ["CSo11UIResponder", "controller"]
+- ["CSo11UIResponder", "didReceiveMemoryWarning"]
+- ["CSo11UIResponder", "init"]
+- !private ["CSo11UIResponder", "isHidden"]
+- !private ["CSo11UIResponder", "navigationBar"]
+- !private ["CSo11UIResponder", "navigationController"]
+- !private ["CSo11UIResponder", "navigationItem"]
+- ["CSo11UIResponder", "screenType"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- ["PSo30UIResponderStandardEditActions", "configureBackButtonOnNavigationBar"]
+- ["PSo30UIResponderStandardEditActions", "configureNavigationBarHide"]
+- ["PSo30UIResponderStandardEditActions", "configureNavigationBarShow"]
+- ["PSo30UIResponderStandardEditActions", "controller"]
+- ["PSo30UIResponderStandardEditActions", "didReceiveMemoryWarning"]
+- !private ["PSo30UIResponderStandardEditActions", "init"]
+- !private ["PSo30UIResponderStandardEditActions", "isHidden"]
+- !private ["PSo30UIResponderStandardEditActions", "navigationBar"]
+- !private ["PSo30UIResponderStandardEditActions", "navigationController"]
+- !private ["PSo30UIResponderStandardEditActions", "navigationItem"]
+- ["PSo30UIResponderStandardEditActions", "screenType"]
+- ["PSo30UIResponderStandardEditActions", "viewDidLoad"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- ["PSo16UIStateRestoring", "configureBackButtonOnNavigationBar"]
+- ["PSo16UIStateRestoring", "configureNavigationBarHide"]
+- ["PSo16UIStateRestoring", "configureNavigationBarShow"]
+- ["PSo16UIStateRestoring", "controller"]
+- ["PSo16UIStateRestoring", "didReceiveMemoryWarning"]
+- !private ["PSo16UIStateRestoring", "init"]
+- !private ["PSo16UIStateRestoring", "navigationBar"]
+- !private ["PSo16UIStateRestoring", "navigationController"]
+- !private ["PSo16UIStateRestoring", "navigationItem"]
+- ["PSo16UIStateRestoring", "screenType"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- ["PSo18UITraitEnvironment", "configureBackButtonOnNavigationBar"]
+- ["PSo18UITraitEnvironment", "configureNavigationBarHide"]
+- ["PSo18UITraitEnvironment", "configureNavigationBarShow"]
+- ["PSo18UITraitEnvironment", "controller"]
+- ["PSo18UITraitEnvironment", "didReceiveMemoryWarning"]
+- !private ["PSo18UITraitEnvironment", "init"]
+- !private ["PSo18UITraitEnvironment", "isHidden"]
+- !private ["PSo18UITraitEnvironment", "navigationBar"]
+- !private ["PSo18UITraitEnvironment", "navigationController"]
+- !private ["PSo18UITraitEnvironment", "navigationItem"]
+- ["PSo18UITraitEnvironment", "screenType"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo6UIView", "isHidden"]
+- ["CSo16UIViewController", "AppScreenType"]
+- ["CSo16UIViewController", "Controller"]
+- !private ["CSo16UIViewController", "SlideNavigationController"]
+- ["CSo16UIViewController", "configureBackButtonOnNavigationBar"]
+- ["CSo16UIViewController", "configureNavigationBarHide"]
+- ["CSo16UIViewController", "configureNavigationBarShow"]
+- ["CSo16UIViewController", "controller"]
+- ["CSo16UIViewController", "deinit"]
+- ["CSo16UIViewController", "didReceiveMemoryWarning"]
+- ["CSo16UIViewController", "init"]
+- !private ["CSo16UIViewController", "navigationBar"]
+- !private ["CSo16UIViewController", "navigationController"]
+- !private ["CSo16UIViewController", "navigationItem"]
+- ["CSo16UIViewController", "screenType"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- ["CSo16UIViewController", ""]
+- ["P8Quiddity4View", "Controller"]
+- ["P8Quiddity4View", "controller"]
+- !private ["P8Quiddity4View", "navigationController"]
+- !private ["P8Quiddity4View", "navigationItem"]
+- ["P8Quiddity4View", ""]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "isHidden"]
+- ["Ps9_Hashable", "configureBackButtonOnNavigationBar"]
+- ["Ps9_Hashable", "configureNavigationBarHide"]
+- ["Ps9_Hashable", "configureNavigationBarShow"]
+- ["Ps9_Hashable", "controller"]
+- ["Ps9_Hashable", "didReceiveMemoryWarning"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "isHidden"]
+- !private ["Ps9_Hashable", "navigationBar"]
+- !private ["Ps9_Hashable", "navigationController"]
+- !private ["Ps9_Hashable", "navigationItem"]
+- ["Ps9_Hashable", "screenType"]
+- !private ["Ps9_Hashable", "setHidesBackButton"]
+- ["Ps9_Hashable", "viewDidLoad"]
+- ["Ps9_Hashable", ""]
+depends-nominal:
+- "C8Quiddity22AbstractViewController"
+- "Ps9AnyObject"
+- "Sb"
+- !private "PSo15CALayerDelegate"
+- "Ps7CVarArg"
+- "P8Quiddity10Controller"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- "CSo7NSCoder"
+- "PSo8NSCoding"
+- "PSo26NSExtensionRequestHandling"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "Sq"
+- "CSo25SlideNavigationController"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- !private "PSo16UIBarPositioning"
+- "PSo18UIContentContainer"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- !private "PSo11UIFocusItem"
+- "CSo15UINavigationBar"
+- "CSo22UINavigationController"
+- "CSo16UINavigationItem"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- "PSo16UIStateRestoring"
+- "PSo18UITraitEnvironment"
+- !private "CSo6UIView"
+- "CSo16UIViewController"
+- "P8Quiddity4View"
+- !private "Ps37_DefaultCustomPlaygroundQuickLookable"
+- "Ps9_Hashable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode8.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Volumes/User Project/Project/Quiddity/Quiddity/Quiddity-Bridging-Header.h"
+- "/Volumes/User Project/Project/Quiddity/Quiddity/Validation/TextFieldValidator.h"
+- "/Applications/Xcode8.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode8.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode8.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode8.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode8.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode8.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode8.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode8.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Volumes/User Project/Project/Quiddity/Quiddity/SlideMenu/SlideNavigationController.h"
+- "/Volumes/User Project/Project/Quiddity/Quiddity/SlideMenu/Animation/SlideNavigationContorllerAnimatorSlideAndFade.h"
+- "/Volumes/User Project/Project/Quiddity/Quiddity/SlideMenu/Animation/SlideNavigationContorllerAnimator.h"
+- "/Volumes/User Project/Project/Quiddity/Quiddity/CircleMenu/XXXRoundMenuButton.h"
+- "/Applications/Xcode8.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Volumes/User Project/Project/Quiddity/DerivedData/Quiddity/Build/Products/Debug-iphonesimulator/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework/Modules/IQKeyboardManagerSwift.swiftmodule/x86_64.swiftmodule"
+- "/Volumes/User Project/Project/Quiddity/DerivedData/Quiddity/Build/Products/Debug-iphonesimulator/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework/Headers/IQKeyboardManagerSwift-Swift.h"
+- "/Volumes/User Project/Project/Quiddity/DerivedData/Quiddity/Build/Products/Debug-iphonesimulator/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework/Headers/IQKeyboardManagerSwift-umbrella.h"
+- "/Volumes/User Project/Project/Quiddity/DerivedData/Quiddity/Build/Products/Debug-iphonesimulator/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework/Modules/module.modulemap"
+- "/Volumes/User Project/Project/Quiddity/DerivedData/Quiddity/Build/Products/Debug-iphonesimulator/HMSegmentedControl/HMSegmentedControl.framework/Headers/HMSegmentedControl.h"
+- "/Volumes/User Project/Project/Quiddity/DerivedData/Quiddity/Build/Products/Debug-iphonesimulator/HMSegmentedControl/HMSegmentedControl.framework/Headers/HMSegmentedControl-umbrella.h"
+- "/Volumes/User Project/Project/Quiddity/DerivedData/Quiddity/Build/Products/Debug-iphonesimulator/HMSegmentedControl/HMSegmentedControl.framework/Modules/module.modulemap"
+interface-hash: "803a65dbe103f0afc27821a11d0b9db4"
