@@ -65,9 +65,9 @@ class loginViewController: AbstractViewController,UITextFieldDelegate {
     }
     
     func login() {
-        if txtUsername.validate() && txtPassword.validate() {
+//        if txtUsername.validate() && txtPassword.validate() {
             self.performSegue(withIdentifier: "showDashBoardScreen", sender: self)
-        }
+//        }
         
     }
 //    MARK: - TextFeild Delegate

@@ -54,9 +54,9 @@ class subDomainViewController: AbstractViewController {
     }
     
     func nextLogin() {
-        if txtSubDomain.validate() {
+//        if txtSubDomain.validate() {
             self.performSegue(withIdentifier: "showLoginScreen", sender: self)
-        }
+//        }
     }
     
     //    MARK: - TextFeild Delegate
