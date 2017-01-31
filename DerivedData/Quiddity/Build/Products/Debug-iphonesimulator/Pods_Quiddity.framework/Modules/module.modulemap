@@ -1,6 +1,0 @@
-framework module Pods_Quiddity {
-  umbrella header "Pods-Quiddity-umbrella.h"
-
-  export *
-  module * { export * }
-}

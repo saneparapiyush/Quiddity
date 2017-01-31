@@ -1,6 +1,0 @@
-framework module Pods_QuiddityUITests {
-  umbrella header "Pods-QuiddityUITests-umbrella.h"
-
-  export *
-  module * { export * }
-}
