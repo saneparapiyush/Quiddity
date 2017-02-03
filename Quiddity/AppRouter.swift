@@ -6,7 +6,6 @@
 //  Copyright © 2016 Dhiren Shah. All rights reserved.
 //
 
-import Foundation
 import UIKit
 
 let _sharedRouter: AppRouter = { AppRouter() }()
